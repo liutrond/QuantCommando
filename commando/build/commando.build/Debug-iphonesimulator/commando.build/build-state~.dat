@@ -1,0 +1,1224 @@
+Tcommando
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Info.plist commando/commando-Info.plist
+cProcessPCH /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch.pth commando/commando-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/main.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AppDelegate.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/NSObject+SBJson.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/NSObject+SBJson.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/ViewController.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonParser.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParser.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAccumulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAdapter.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAdapter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserState.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriter.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterAccumulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterState.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonTokeniser.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonTokeniser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonUTF8Stream.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonUTF8Stream.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonWriter.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/MainController.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/MainController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/TermsController.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/TermsController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AboutController.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/../AboutController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomAlertView.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/commando/CustomAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/FrameView.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/FrameView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomSearchBar.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomSearchBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomTableView.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomTableView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/registerView.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/registerView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/QuantCommando normal i386
+cGenerateDSYMFile /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app.dSYM /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/QuantCommando
+cCpResource commando/Default.png build/Debug-iphonesimulator/QuantCommando.app/Default.png
+cCopyStringsFile /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/en.lproj/InfoPlist.strings commando/en.lproj/InfoPlist.strings
+cCpResource commando/Default@2x.png build/Debug-iphonesimulator/QuantCommando.app/Default@2x.png
+cCpResource commando/Default-568h@2x.png build/Debug-iphonesimulator/QuantCommando.app/Default-568h@2x.png
+cCompileStoryboard /Users/trondliu/Dropbox/QuantCommando/commando/commando/en.lproj/MainStoryboard_iPad.storyboard
+cCpResource commando/backgorund.png build/Debug-iphonesimulator/QuantCommando.app/backgorund.png
+cCpResource commando/logo.png build/Debug-iphonesimulator/QuantCommando.app/logo.png
+cCpResource commando/button.jpg build/Debug-iphonesimulator/QuantCommando.app/button.jpg
+cCpResource commando/Untitled-1.jpg build/Debug-iphonesimulator/QuantCommando.app/Untitled-1.jpg
+cCpResource commando/textBackground.png build/Debug-iphonesimulator/QuantCommando.app/textBackground.png
+cCpResource commando/button.png build/Debug-iphonesimulator/QuantCommando.app/button.png
+cCpResource commando/buttonGradient.png build/Debug-iphonesimulator/QuantCommando.app/buttonGradient.png
+cCpResource commando/graph.png build/Debug-iphonesimulator/QuantCommando.app/graph.png
+cCpResource commando/textField.png build/Debug-iphonesimulator/QuantCommando.app/textField.png
+cCpResource commando/uiButton.png build/Debug-iphonesimulator/QuantCommando.app/uiButton.png
+cCpResource commando/uiButtonHover.png build/Debug-iphonesimulator/QuantCommando.app/uiButtonHover.png
+cCpResource commando/button2.png build/Debug-iphonesimulator/QuantCommando.app/button2.png
+cCpResource commando/wave.png build/Debug-iphonesimulator/QuantCommando.app/wave.png
+cCpResource commando/spiral.png build/Debug-iphonesimulator/QuantCommando.app/spiral.png
+cCpResource commando/hammer.png build/Debug-iphonesimulator/QuantCommando.app/hammer.png
+cCpResource icon.png build/Debug-iphonesimulator/QuantCommando.app/icon.png
+cCpResource commando/../../../Downloads/button3.png build/Debug-iphonesimulator/QuantCommando.app/button3.png
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c00000000519E4E5C0000000000000110
+t1369329244
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000516B3A0C0000000000228FE0
+t1365981708
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000516B3A0D00000000003DDFA0
+t1365981709
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000516B3A0D00000000000015F7
+t1365981709
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000516B3A110000000000000E8D
+t1365981713
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000516B3A130000000000AB6230
+t1365981715
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000516B3A250000000000001B73
+t1365981733
+s7027
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/Default-Landscape@2x~ipad.png
+c0000000051EDB523000000000023CF3D
+t1374532899
+s2346813
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/Default-Landscape~ipad.png
+c0000000051EDB51F00000000000DFF44
+t1374532895
+s917316
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/Default-Portrait@2x~ipad.png
+c0000000051EDB51D00000000008D483A
+t1374532893
+s9259066
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/Default-Portrait~ipad.png
+c0000000051EDB5110000000000235C2A
+t1374532881
+s2317354
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app.dSYM
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Default-Landscape@2x~ipad.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Default-Portrait@2x~ipad.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Default.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Default@2x.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Info.plist
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/PkgInfo
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/QuantCommando
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Untitled-1.jpg
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/backgorund.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/button.jpg
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/button.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/button2.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/button3.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/buttonGradient.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/graph.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/hammer.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/icon.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/logo.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/spiral.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/textBackground.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/textField.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/textField2.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/textField3.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/uiButton.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/uiButtonHover.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/wave.png
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AboutController.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomAlertView.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomSearchBar.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomTableView.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/FrameView.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/MainController.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/NSObject+SBJson.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/QuantCommando.LinkFileList
+c0000000051EDBB880000000000000CF6
+t1374534536
+s3318
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonParser.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParser.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAdapter.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserState.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriter.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterState.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonTokeniser.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonUTF8Stream.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonWriter.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/TermsController.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/registerView.o
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/../../../Downloads/button3.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/../../textField2.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/../../textField3.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/../AboutController.m
+c0000000051EDB5240000000000000B54
+t1374532900
+s2900
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/AppDelegate.m
+c0000000051EDB54C00000000000008D6
+t1374532940
+s2262
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/NSObject+SBJson.m
+c0000000051EDB563000000000000099B
+t1374532963
+s2459
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonParser.m
+c0000000051EDB5610000000000000C58
+t1374532961
+s3160
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParser.m
+c0000000051EDB5600000000000002005
+t1374532960
+s8197
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAccumulator.m
+c0000000051EDB55F000000000000074B
+t1374532959
+s1867
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAdapter.m
+c0000000051EDB55E000000000000113C
+t1374532958
+s4412
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserState.m
+c0000000051EDB55D000000000000200C
+t1374532957
+s8204
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriter.m
+c0000000051EDB55C0000000000002984
+t1374532956
+s10628
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterAccumulator.m
+c0000000051EDB55B00000000000007AE
+t1374532955
+s1966
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterState.m
+c0000000051EDB55A0000000000000FB7
+t1374532954
+s4023
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonTokeniser.m
+c0000000051EDB55800000000000034C3
+t1374532952
+s13507
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonUTF8Stream.m
+c0000000051EDB5570000000000000F4D
+t1374532951
+s3917
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonWriter.m
+c0000000051EDB5570000000000000DB4
+t1374532951
+s3508
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomSearchBar.m
+c0000000051EDB53B0000000000000DDD
+t1374532923
+s3549
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomTableView.m
+c0000000051EDB53A0000000000000DE2
+t1374532922
+s3554
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Default-568h@2x.png
+c0000000051EDB53900000000000048A2
+t1374532921
+s18594
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Default.png
+c0000000051EDB539000000000000198C
+t1374532921
+s6540
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Default@2x.png
+c0000000051EDB5380000000000003EEB
+t1374532920
+s16107
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/FrameView.m
+c0000000051EDB5370000000000000D21
+t1374532919
+s3361
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/MainController.m
+c0000000051EDB5330000000000001B2E
+t1374532915
+s6958
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/TermsController.m
+c0000000051EDB52D000000000000037D
+t1374532909
+s893
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/Untitled-1.jpg
+c0000000051EDB528000000000000396D
+t1374532904
+s14701
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/ViewController.m
+c0000000051EDB52700000000000017E7
+t1374532903
+s6119
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/backgorund.png
+c0000000051EDB54C0000000000198759
+t1374532940
+s1673049
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/button.jpg
+c0000000051EDB53F00000000000033E8
+t1374532927
+s13288
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/button.png
+c0000000051EDB53F00000000000000E6
+t1374532927
+s230
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/button2.png
+c0000000051EDB53E0000000000000B6A
+t1374532926
+s2922
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/buttonGradient.png
+c0000000051EDB53E0000000000000B53
+t1374532926
+s2899
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/commando-Prefix.pch
+c0000000051EDB53D000000000000013F
+t1374532925
+s319
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/commando/CustomAlertView.m
+c0000000051EDB56400000000000010AE
+t1374532964
+s4270
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/en.lproj/InfoPlist.strings
+c0000000051EDB569000000000000002D
+t1374532969
+s45
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/en.lproj/MainStoryboard_iPad.storyboard
+c0000000051EDB5690000000000014EC9
+t1374532969
+s85705
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/graph.png
+c0000000051EDB5360000000000012ABC
+t1374532918
+s76476
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/hammer.png
+c0000000051EDB5350000000000001370
+t1374532917
+s4976
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/logo.png
+c0000000051EDB5350000000000001128
+t1374532917
+s4392
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/main.m
+c0000000051EDB5340000000000000159
+t1374532916
+s345
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/registerView.m
+c0000000051EDB52E0000000000000DEE
+t1374532910
+s3566
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/spiral.png
+c0000000051EDB52E000000000000114B
+t1374532910
+s4427
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/textBackground.png
+c0000000051EDB52C00000000000015BA
+t1374532908
+s5562
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/textField.png
+c0000000051EDB52A00000000000009FC
+t1374532906
+s2556
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/uiButton.png
+c0000000051EDB5290000000000000986
+t1374532905
+s2438
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/uiButtonHover.png
+c0000000051EDB5280000000000000EEB
+t1374532904
+s3819
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/commando/wave.png
+c0000000051EDB5250000000000000F41
+t1374532901
+s3905
+
+N/Users/trondliu/Dropbox/QuantCommando/commando/icon.png
+c0000000051EDB50C0000000000001BD5
+t1374532876
+s7125
+
+N/var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch.pth
+t2
+s0
+
+Ncommando/commando-Info.plist
+c0000000051EDB53D00000000000006F4
+t1374532925
+s1780
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/../AboutController.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/AppDelegate.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/NSObject+SBJson.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonParser.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParser.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAccumulator.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAdapter.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserState.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriter.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterAccumulator.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterState.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonTokeniser.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonUTF8Stream.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonWriter.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomSearchBar.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomTableView.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/FrameView.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/MainController.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/TermsController.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/ViewController.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/commando/CustomAlertView.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/main.m
+r0
+
+CBuild AST from /Users/trondliu/Dropbox/QuantCommando/commando/commando/registerView.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies75008408f39db741^3d0eb308f39db741^---0#1#0#--18"Check dependencies36"F3DE2D1B-1CE9-41C1-B757-2F9508AFF65E-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AboutController.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/../AboutController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.235047
+e396227339.360652
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AboutController.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/../AboutController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/../AboutController.m185b3c0bf39db741^93525c0bf39db741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/../AboutController.m0000000000000000^3615"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AboutController.o commando/../AboutController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AboutController.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AboutController.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/../AboutController.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AboutController.o36"4245F72F-0C44-450E-831C-E1E010C303C6-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AppDelegate.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227338.517587
+e396227338.776300
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AppDelegate.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/AppDelegate.meaae840af39db741^e0bac60af39db741^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/AppDelegate.m0000000000000000^3585"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AppDelegate.o commando/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AppDelegate.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/AppDelegate.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/AppDelegate.o36"DD1D60F8-2744-49F9-817F-2B284BBDD7FF-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomAlertView.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/commando/CustomAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.260558
+e396227339.393514
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomAlertView.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/commando/CustomAlertView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/commando/CustomAlertView.m1de3420bf39db741^ecbd640bf39db741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/commando/CustomAlertView.m0000000000000000^3627"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomAlertView.o commando/commando/CustomAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomAlertView.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomAlertView.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/commando/CustomAlertView.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomAlertView.o36"4444E46E-E237-4A20-A536-524D5808056D-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomSearchBar.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomSearchBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.394823
+e396227339.474160
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomSearchBar.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomSearchBar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomSearchBar.m622e650bf39db741^7573790bf39db741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomSearchBar.m0000000000000000^3609"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomSearchBar.o commando/CustomSearchBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomSearchBar.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomSearchBar.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomSearchBar.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomSearchBar.o36"6C918B6A-D7DC-4D5B-AAF5-972CDD1E96B7-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomTableView.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomTableView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.435647
+e396227339.541362
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomTableView.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomTableView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomTableView.mc9ab6f0bf39db741^3e968a0bf39db741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomTableView.m0000000000000000^3609"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomTableView.o commando/CustomTableView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomTableView.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomTableView.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/CustomTableView.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/CustomTableView.o36"148AD986-93E2-4A18-A92A-9DE443AB7E00-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/FrameView.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/FrameView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.362060
+e396227339.434305
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/FrameView.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/FrameView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/FrameView.mf7e95c0bf39db741^b22d6f0bf39db741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/FrameView.m0000000000000000^3573"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/FrameView.o commando/FrameView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/FrameView.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/FrameView.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/FrameView.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/FrameView.o36"63E15E5C-6804-4E6D-AB04-C380AD02CF21-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/MainController.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/MainController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.153707
+e396227339.259196
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/MainController.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/MainController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/MainController.m9984270bf39db741^c364420bf39db741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/MainController.m0000000000000000^3603"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/MainController.o commando/MainController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/MainController.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/MainController.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/MainController.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/MainController.o36"583D451D-D9BC-4C10-BB65-CC8492656565-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/NSObject+SBJson.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/NSObject+SBJson.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227338.518110
+e396227338.756025
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/NSObject+SBJson.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/NSObject+SBJson.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/NSObject+SBJson.m4bcb840af39db741^bb99c10af39db741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/NSObject+SBJson.m0000000000000000^3625"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/NSObject+SBJson.o commando/Classes/NSObject+SBJson.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/NSObject+SBJson.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/NSObject+SBJson.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/NSObject+SBJson.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/NSObject+SBJson.o36"E45F1229-63A6-4C94-B79C-521C9DE905ED-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonParser.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227338.757323
+e396227338.816195
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonParser.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonParser.m344bc20af39db741^1ff8d00af39db741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonParser.m0000000000000000^3607"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonParser.o commando/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonParser.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonParser.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonParser.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonParser.o36"342DAE9D-FCC2-4F10-B7D9-106B6C7D107C-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParser.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227338.757328
+e396227338.821169
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParser.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParser.m9d10c20af39db741^3737d20af39db741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParser.m0000000000000000^3643"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParser.o commando/Classes/SBJsonStreamParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParser.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParser.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParser.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParser.o36"F8301312-9BC1-4997-A487-AEBAC89A81E5-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAccumulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227338.817463
+e396227338.872317
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAccumulator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAccumulator.m5c75d10af39db741^514fdf0af39db741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAccumulator.m0000000000000000^3709"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o commando/Classes/SBJsonStreamParserAccumulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAccumulator.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAccumulator.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAccumulator.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o36"0228F88B-6D28-4D02-A8C5-23916B31F70B-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAdapter.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAdapter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227338.822563
+e396227338.888678
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAdapter.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAdapter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAdapter.m16bed20af39db741^7c7fe30af39db741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAdapter.m0000000000000000^3685"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAdapter.o commando/Classes/SBJsonStreamParserAdapter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAdapter.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAdapter.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserAdapter.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserAdapter.o36"CD806C83-A92C-42F0-A15A-B9D8AEA3116A-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserState.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227338.873674
+e396227338.949232
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserState.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserState.m78d5df0af39db741^3700f30af39db741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserState.m0000000000000000^3673"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserState.o commando/Classes/SBJsonStreamParserState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserState.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserState.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamParserState.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamParserState.o36"90478E1E-0E19-47B8-9DD8-4CAC7C7EED21-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriter.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227338.889980
+e396227339.007709
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriter.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriter.m7101e40af39db741^88f6010bf39db741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriter.m0000000000000000^3643"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriter.o commando/Classes/SBJsonStreamWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriter.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriter.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriter.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriter.o36"859CCEA2-2D80-40B0-BD5F-3B0A373E46C0-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterAccumulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227338.950639
+e396227339.014973
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterAccumulator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterAccumulator.mb491f30af39db741^97e5030bf39db741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterAccumulator.m0000000000000000^3709"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o commando/Classes/SBJsonStreamWriterAccumulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterAccumulator.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o36"DC24FEE2-FDB1-44FA-AC95-F8278C12927D-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterState.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.009068
+e396227339.101435
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterState.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterState.ma582020bf39db741^2d221a0bf39db741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterState.m0000000000000000^3673"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterState.o commando/Classes/SBJsonStreamWriterState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterState.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterState.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonStreamWriterState.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonStreamWriterState.o36"3767208B-1D78-4DC6-8AA3-E0D2908C297F-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonTokeniser.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonTokeniser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.016270
+e396227339.109147
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonTokeniser.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonTokeniser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonTokeniser.m7c48040bf39db741^99f01b0bf39db741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonTokeniser.m0000000000000000^3625"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonTokeniser.o commando/Classes/SBJsonTokeniser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonTokeniser.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonTokeniser.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonTokeniser.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonTokeniser.o36"E4B8881A-68E4-4A79-9C4C-2A3DB4863B30-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonUTF8Stream.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonUTF8Stream.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.108957
+e396227339.153658
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonUTF8Stream.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonUTF8Stream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonUTF8Stream.md3151c0bf39db741^7a55270bf39db741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonUTF8Stream.m0000000000000000^3631"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonUTF8Stream.o commando/Classes/SBJsonUTF8Stream.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonUTF8Stream.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonUTF8Stream.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonUTF8Stream.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonUTF8Stream.o36"AEE9C4FD-7501-4DED-A069-335D8D7408A8-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonWriter.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.110349
+e396227339.152376
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonWriter.mb6691c0bf39db741^4301270bf39db741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonWriter.m0000000000000000^3607"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonWriter.o commando/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonWriter.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonWriter.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/Classes/SBJsonWriter.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/SBJsonWriter.o36"D2D3BA38-6D5E-4EE9-AB35-8C9E4E43CC0D-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/TermsController.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/TermsController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.154846
+e396227339.233702
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/TermsController.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/TermsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/TermsController.me6cf270bf39db741^0bd33b0bf39db741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/TermsController.m0000000000000000^3609"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/TermsController.o commando/TermsController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/TermsController.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/TermsController.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/TermsController.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/TermsController.o36"D5E077F8-6067-4D97-8D53-829120F1FD92-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/ViewController.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227338.518143
+e396227338.816137
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/ViewController.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/ViewController.m2eca840af39db741^17f2d00af39db741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/ViewController.m0000000000000000^3603"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/ViewController.o commando/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/ViewController.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/ViewController.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/ViewController.o36"757081DA-5EA1-4FE1-AAF6-34C98A1F6FF9-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/main.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227338.517559
+e396227338.756003
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/main.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/main.mb8ae840af39db741^f793c10af39db741^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/main.m0000000000000000^3543"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/main.o commando/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/main.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/main.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/main.o36"844B7594-6622-4419-87D6-4C8C6AF055F8-
+
+CCompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/registerView.o /Users/trondliu/Dropbox/QuantCommando/commando/commando/registerView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227339.475510
+e396227339.549232
+r1
+xCompileC
+xbuild/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/registerView.o
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/registerView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/trondliu/Dropbox/QuantCommando/commando/commando/registerView.me4d9790bf39db741^789a8c0bf39db741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/registerView.m0000000000000000^3591"CompileC build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/registerView.o commando/registerView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -include /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch -MMD -MT dependencies -MF /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/registerView.d --serialize-diagnostics /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/registerView.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/registerView.m -o /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/registerView.o36"E654FADD-9D50-4937-85A0-C69D9EEDF03B-
+
+CCompileStoryboard /Users/trondliu/Dropbox/QuantCommando/commando/commando/en.lproj/MainStoryboard_iPad.storyboard
+s396227340.225612
+e396227341.720163
+r1
+xCompileStoryboard
+x/Users/trondliu/Dropbox/QuantCommando/commando/commando/en.lproj/MainStoryboard_iPad.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CompileStoryboard commando/en.lproj/MainStoryboard_iPad.storyboard1ee0390cf39db741^096eb80df39db741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^991"CompileStoryboard commando/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/trondliu/Dropbox/QuantCommando/commando/commando/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"9EB4007E-D51D-4201-8C35-BEE1DFFB9592-
+
+CCopyStringsFile /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/en.lproj/InfoPlist.strings commando/en.lproj/InfoPlist.strings
+s396227340.200295
+e396227340.234250
+r1
+xCopyStringsFile
+x/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/en.lproj/InfoPlist.strings
+xcommando/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy commando/en.lproj/InfoPlist.stringsc971330cf39db741^9df73b0cf39db741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/en.lproj/InfoPlist.strings0000000000000000^605"CopyStringsFile build/Debug-iphonesimulator/QuantCommando.app/en.lproj/InfoPlist.strings commando/en.lproj/InfoPlist.strings    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/en.lproj -- commando/en.lproj/InfoPlist.strings36"A3872A93-1AA2-40C4-81A2-43915623135C-
+
+CCpResource Default-Landscape@2x~ipad.png build/Debug-iphonesimulator/QuantCommando.app/Default-Landscape@2x~ipad.png
+r0
+
+CCpResource Default-Landscape~ipad.png build/Debug-iphonesimulator/QuantCommando.app/Default-Landscape~ipad.png
+r0
+
+CCpResource Default-Portrait@2x~ipad.png build/Debug-iphonesimulator/QuantCommando.app/Default-Portrait@2x~ipad.png
+r0
+
+CCpResource Default-Portrait~ipad.png build/Debug-iphonesimulator/QuantCommando.app/Default-Portrait~ipad.png
+r0
+
+CCpResource commando/../../../Downloads/button3.png build/Debug-iphonesimulator/QuantCommando.app/button3.png
+s396227340.302184
+e396227340.309935
+r0
+xCpResource
+xcommando/../../../Downloads/button3.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/button3.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/QuantCommando.app/button3.png986b4d0cf39db741^234a4f0cf39db741^-120"error: /Users/trondliu/Dropbox/QuantCommando/commando/commando/../../../Downloads/button3.png: No such file or directory1(21%IDEActivityLogMessage2@120"error: /Users/trondliu/Dropbox/QuantCommando/commando/commando/../../../Downloads/button3.png: No such file or directory-396227340#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#11"PBXCp Error--0#0#0#-19%DVTDocumentLocation4@120"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/button3.png000000000080d041^650"CpResource commando/../../../Downloads/button3.png build/Debug-iphonesimulator/QuantCommando.app/button3.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/../../../Downloads/button3.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"6C3619BB-A8BA-436D-AC19-3CE35E1731A5-
+
+CCpResource commando/../../textField2.png build/Debug-iphonesimulator/QuantCommando.app/textField2.png
+r0
+
+CCpResource commando/../../textField3.png build/Debug-iphonesimulator/QuantCommando.app/textField3.png
+r0
+
+CCpResource commando/Default-568h@2x.png build/Debug-iphonesimulator/QuantCommando.app/Default-568h@2x.png
+s396227340.221226
+e396227340.224128
+r1
+xCpResource
+xcommando/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug-iphonesimulator/QuantCommando.app/Default-568h@2x.png96b2380cf39db741^d461390cf39db741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Default-568h@2x.png000000000080d041^642"CpResource "commando/Default-568h@2x.png" "build/Debug-iphonesimulator/QuantCommando.app/Default-568h@2x.png"    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/trondliu/Dropbox/QuantCommando/commando/commando/Default-568h@2x.png" /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"6D684C0F-C3C6-427F-AAEB-F7382EA38A5C-
+
+CCpResource commando/Default.png build/Debug-iphonesimulator/QuantCommando.app/Default.png
+s396227340.200289
+e396227340.215745
+r1
+xCpResource
+xcommando/Default.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/QuantCommando.app/Default.png9771330cf39db741^d13d370cf39db741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Default.png000000000080d041^612"CpResource commando/Default.png build/Debug-iphonesimulator/QuantCommando.app/Default.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/Default.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"8FE2D132-BEC0-4A63-A505-457C77FADC06-
+
+CCpResource commando/Default@2x.png build/Debug-iphonesimulator/QuantCommando.app/Default@2x.png
+s396227340.217139
+e396227340.219951
+r1
+xCpResource
+xcommando/Default@2x.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphonesimulator/QuantCommando.app/Default@2x.png19a9370cf39db741^514e380cf39db741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Default@2x.png000000000080d041^627"CpResource "commando/Default@2x.png" "build/Debug-iphonesimulator/QuantCommando.app/Default@2x.png"    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/trondliu/Dropbox/QuantCommando/commando/commando/Default@2x.png" /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"0DE47A3D-EB75-48F2-8244-57D3A37187EA-
+
+CCpResource commando/Untitled-1.jpg build/Debug-iphonesimulator/QuantCommando.app/Untitled-1.jpg
+s396227340.250408
+e396227340.252862
+r1
+xCpResource
+xcommando/Untitled-1.jpg
+xbuild/Debug-iphonesimulator/QuantCommando.app/Untitled-1.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphonesimulator/QuantCommando.app/Untitled-1.jpg0f2b400cf39db741^2cbb400cf39db741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Untitled-1.jpg000000000080d041^621"CpResource commando/Untitled-1.jpg build/Debug-iphonesimulator/QuantCommando.app/Untitled-1.jpg    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/Untitled-1.jpg /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"59882255-252A-413E-BD17-04DBA588109C-
+
+CCpResource commando/backgorund.png build/Debug-iphonesimulator/QuantCommando.app/backgorund.png
+s396227340.235988
+e396227340.240737
+r1
+xCpResource
+xcommando/backgorund.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/backgorund.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphonesimulator/QuantCommando.app/backgorund.png05863c0cf39db741^66a13d0cf39db741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/backgorund.png000000000080d041^621"CpResource commando/backgorund.png build/Debug-iphonesimulator/QuantCommando.app/backgorund.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/backgorund.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"3F892043-9D54-43D2-BCE3-1B078F3E4EBF-
+
+CCpResource commando/button.jpg build/Debug-iphonesimulator/QuantCommando.app/button.jpg
+s396227340.246483
+e396227340.249238
+r1
+xCpResource
+xcommando/button.jpg
+xbuild/Debug-iphonesimulator/QuantCommando.app/button.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/QuantCommando.app/button.jpg122f3f0cf39db741^b8ce3f0cf39db741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/button.jpg000000000080d041^609"CpResource commando/button.jpg build/Debug-iphonesimulator/QuantCommando.app/button.jpg    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/button.jpg /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"887C768F-8BDD-4017-84BB-1EF617F528B7-
+
+CCpResource commando/button.png build/Debug-iphonesimulator/QuantCommando.app/button.png
+s396227340.258334
+e396227340.261155
+r1
+xCpResource
+xcommando/button.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/QuantCommando.app/button.png153b420cf39db741^ecde420cf39db741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/button.png000000000080d041^609"CpResource commando/button.png build/Debug-iphonesimulator/QuantCommando.app/button.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/button.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"7365CBDA-33CD-47F6-AF06-7BA618640F7A-
+
+CCpResource commando/button2.png build/Debug-iphonesimulator/QuantCommando.app/button2.png
+s396227340.282717
+e396227340.285419
+r1
+xCpResource
+xcommando/button2.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/button2.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/QuantCommando.app/button2.png6474480cf39db741^1711490cf39db741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/button2.png000000000080d041^612"CpResource commando/button2.png build/Debug-iphonesimulator/QuantCommando.app/button2.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/button2.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"A7F037DB-5270-4EA2-81F3-6874E6F82EAE-
+
+CCpResource commando/buttonGradient.png build/Debug-iphonesimulator/QuantCommando.app/buttonGradient.png
+s396227340.262466
+e396227340.264771
+r1
+xCpResource
+xcommando/buttonGradient.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/buttonGradient.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/QuantCommando.app/buttonGradient.png0741430cf39db741^e7c7430cf39db741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/buttonGradient.png000000000080d041^633"CpResource commando/buttonGradient.png build/Debug-iphonesimulator/QuantCommando.app/buttonGradient.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/buttonGradient.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"9D698D9A-4D3A-4D7C-8356-9D17C23AB6C6-
+
+CCpResource commando/graph.png build/Debug-iphonesimulator/QuantCommando.app/graph.png
+s396227340.266080
+e396227340.269633
+r1
+xCpResource
+xcommando/graph.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/graph.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/QuantCommando.app/graph.png7b2d440cf39db741^d713450cf39db741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/graph.png000000000080d041^606"CpResource commando/graph.png build/Debug-iphonesimulator/QuantCommando.app/graph.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/graph.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"6BDCBA00-8551-454C-8D89-CDB95643A046-
+
+CCpResource commando/hammer.png build/Debug-iphonesimulator/QuantCommando.app/hammer.png
+s396227340.294396
+e396227340.296962
+r1
+xCpResource
+xcommando/hammer.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/hammer.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/QuantCommando.app/hammer.png6c774b0cf39db741^3a064c0cf39db741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/hammer.png000000000080d041^609"CpResource commando/hammer.png build/Debug-iphonesimulator/QuantCommando.app/hammer.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/hammer.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"0D709929-6CD3-4E23-9658-EE3F0AD14A99-
+
+CCpResource commando/logo.png build/Debug-iphonesimulator/QuantCommando.app/logo.png
+s396227340.242070
+e396227340.245148
+r1
+xCpResource
+xcommando/logo.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/logo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/QuantCommando.app/logo.pngba113e0cf39db741^adc23e0cf39db741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/logo.png000000000080d041^603"CpResource commando/logo.png build/Debug-iphonesimulator/QuantCommando.app/logo.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/logo.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"BEF4D4BD-4F6F-486C-B19E-8E6E8BE05777-
+
+CCpResource commando/spiral.png build/Debug-iphonesimulator/QuantCommando.app/spiral.png
+s396227340.290787
+e396227340.293198
+r1
+xCpResource
+xcommando/spiral.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/spiral.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/QuantCommando.app/spiral.png99814a0cf39db741^390f4b0cf39db741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/spiral.png000000000080d041^609"CpResource commando/spiral.png build/Debug-iphonesimulator/QuantCommando.app/spiral.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/spiral.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"C6DDA4BC-6557-4558-AB35-715EC0647E1A-
+
+CCpResource commando/textBackground.png build/Debug-iphonesimulator/QuantCommando.app/textBackground.png
+s396227340.254184
+e396227340.257038
+r1
+xCpResource
+xcommando/textBackground.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/textBackground.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/QuantCommando.app/textBackground.png8522410cf39db741^1ccd410cf39db741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/textBackground.png000000000080d041^633"CpResource commando/textBackground.png build/Debug-iphonesimulator/QuantCommando.app/textBackground.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/textBackground.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"25B373B5-D9E3-4DFB-BC7C-F3E9BAE1B3CD-
+
+CCpResource commando/textField.png build/Debug-iphonesimulator/QuantCommando.app/textField.png
+s396227340.270937
+e396227340.273330
+r1
+xCpResource
+xcommando/textField.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/textField.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug-iphonesimulator/QuantCommando.app/textField.png6074450cf39db741^d3f8450cf39db741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/textField.png000000000080d041^618"CpResource commando/textField.png build/Debug-iphonesimulator/QuantCommando.app/textField.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/textField.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"1EC9E595-23A6-4FE7-910F-5FD9BC3D9AF7-
+
+CCpResource commando/uiButton.png build/Debug-iphonesimulator/QuantCommando.app/uiButton.png
+s396227340.274583
+e396227340.277255
+r1
+xCpResource
+xcommando/uiButton.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/uiButton.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/QuantCommando.app/uiButton.png035e460cf39db741^83fa460cf39db741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/uiButton.png000000000080d041^615"CpResource commando/uiButton.png build/Debug-iphonesimulator/QuantCommando.app/uiButton.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/uiButton.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"19D236DA-4347-4C27-99EA-3F8B5CD6DA04-
+
+CCpResource commando/uiButtonHover.png build/Debug-iphonesimulator/QuantCommando.app/uiButtonHover.png
+s396227340.278551
+e396227340.281423
+r1
+xCpResource
+xcommando/uiButtonHover.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/uiButtonHover.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/QuantCommando.app/uiButtonHover.pngb762470cf39db741^130b480cf39db741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/uiButtonHover.png000000000080d041^630"CpResource commando/uiButtonHover.png build/Debug-iphonesimulator/QuantCommando.app/uiButtonHover.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/uiButtonHover.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"D2F77727-38F2-4527-954F-254731464D0C-
+
+CCpResource commando/wave.png build/Debug-iphonesimulator/QuantCommando.app/wave.png
+s396227340.286742
+e396227340.289491
+r1
+xCpResource
+xcommando/wave.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/wave.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/QuantCommando.app/wave.png537b490cf39db741^8a1c4a0cf39db741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/wave.png000000000080d041^603"CpResource commando/wave.png build/Debug-iphonesimulator/QuantCommando.app/wave.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/commando/wave.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"4376CD2A-EDCA-41BB-840E-5D9771601B55-
+
+CCpResource icon.png build/Debug-iphonesimulator/QuantCommando.app/icon.png
+s396227340.298254
+e396227340.300896
+r1
+xCpResource
+xicon.png
+xbuild/Debug-iphonesimulator/QuantCommando.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/QuantCommando.app/icon.png5d6a4c0cf39db741^e6084d0cf39db741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/icon.png000000000080d041^585"CpResource icon.png build/Debug-iphonesimulator/QuantCommando.app/icon.png    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/trondliu/Dropbox/QuantCommando/commando/icon.png /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app36"30CFC7AC-1C65-48B9-8298-EBCD1D8A4111-
+
+CGenerateDSYMFile /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app.dSYM /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/QuantCommando
+s396227340.071189
+e396227340.191427
+r1
+xGenerateDSYMFile
+x/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app.dSYM
+x/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/QuantCommando
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Generate /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app.dSYM6154120cf39db741^3b01310cf39db741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app.dSYM000000000080d041^685"GenerateDSYMFile build/Debug-iphonesimulator/QuantCommando.app.dSYM build/Debug-iphonesimulator/QuantCommando.app/QuantCommando    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/QuantCommando -o /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app.dSYM36"E4B0B054-8DA3-491B-9348-1512BD02F8A1-
+
+CLd /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/QuantCommando normal i386
+s396227339.556192
+e396227340.064191
+r1
+xLd
+x/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/QuantCommando
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Link /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/QuantCommando317e8e0bf39db741^2b6e100cf39db741^---0#0#0#--1219"Ld build/Debug-iphonesimulator/QuantCommando.app/QuantCommando normal i386    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator -filelist /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/Objects-normal/i386/QuantCommando.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/QuantCommando36"20EAF3D8-924F-4B3C-AAFB-61C0720A743F-
+
+CProcessInfoPlistFile /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Info.plist commando/commando-Info.plist
+s396227336.728724
+e396227336.735775
+r1
+xProcessInfoPlistFile
+x/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Info.plist
+xcommando/commando-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process commando/commando-Info.pliste10bbb08f39db741^ee5cbc08f39db741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/commando-Info.plist0000000000000000^696"ProcessInfoPlistFile build/Debug-iphonesimulator/QuantCommando.app/Info.plist commando/commando-Info.plist    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility commando/commando-Info.plist -genpkginfo /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app/Info.plist36"1677D904-E232-450B-ACD9-ED20BDE461AC-
+
+CProcessPCH /Users/trondliu/Library/Developer/Xcode/DerivedData/commando-hggqborvjuwueufjdftgeqgfmhon/Index/PrecompiledHeaders/commando-Prefix-afbxwdvkunsreqfepulfckxwtqjf_ast/commando-Prefix.pch.pth commando/commando-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch.pth commando/commando-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s396227336.745923
+e396227338.510490
+r1
+xProcessPCH
+x/var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch.pth
+xcommando/commando-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile commando/commando-Prefix.pchb933bf08f39db741^5cae820af39db741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/trondliu/Dropbox/QuantCommando/commando/commando/commando-Prefix.pch0000000000000000^3577"ProcessPCH /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch.pth commando/commando-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trondliu/Dropbox/QuantCommando/commando    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-generated-files.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-own-target-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-all-target-headers.hmap -iquote /Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/QuantCommando-project-headers.hmap -I/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources/i386 -I/Users/trondliu/Dropbox/QuantCommando/commando/build/commando.build/Debug-iphonesimulator/commando.build/DerivedSources -F/Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch.dia -c /Users/trondliu/Dropbox/QuantCommando/commando/commando/commando-Prefix.pch -o /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/tl/sc3d5x_s4s7fqv0h1tmwq90r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/commando-Prefix-aamjzqbdnfnuqxcpwbdjriuobghu/commando-Prefix.pch.d36"E101ABBF-1493-4C9D-AC96-8FD9ACEB864E-
+
+CTouch /Users/trondliu/Dropbox/QuantCommando/commando/build/Debug-iphonesimulator/QuantCommando.app
+r0
+
